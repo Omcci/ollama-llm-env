@@ -2,7 +2,7 @@
 import openai
 
 #You can change the model here
-MODEL_NAME = "phi3:mini"
+MODEL_NAME = "tinyllama"
 
 #Model Client Set up
 client = openai.OpenAI(
